@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plasticfloor.Services.WebContent", "Plasticfloor.Services.WebContent\Plasticfloor.Services.WebContent.csproj", "{FDC43C42-3AB5-4984-B1E0-91BC25E821F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plasticfloor.Services.WebContent.Interface", "Plasticfloor.Services.WebContent.Interface\Plasticfloor.Services.WebContent.Interface.csproj", "{B6FD279B-8A5E-42F5-9FD7-A64D4EF8DCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plasticfloor.Services.WebContent.Mvc", "Plasticfloor.Services.WebContent.Mvc\Plasticfloor.Services.WebContent.Mvc.csproj", "{0D900E5C-5DD0-404E-96FA-7DF8AE001376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plasticfloor.Services.WebContent.UnitTests", "Plasticfloor.Services.WebContent.UnitTests\Plasticfloor.Services.WebContent.UnitTests.csproj", "{1DE42C49-00D9-407B-A6D0-2FB89E3953AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plasticfloor.Services.WebContent.IntegrationTests", "Plasticfloor.Services.WebContent.IntegrationTests\Plasticfloor.Services.WebContent.IntegrationTests.csproj", "{2A832E3E-8331-464F-98F8-3B1247855B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC43C42-3AB5-4984-B1E0-91BC25E821F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC43C42-3AB5-4984-B1E0-91BC25E821F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC43C42-3AB5-4984-B1E0-91BC25E821F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC43C42-3AB5-4984-B1E0-91BC25E821F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FD279B-8A5E-42F5-9FD7-A64D4EF8DCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FD279B-8A5E-42F5-9FD7-A64D4EF8DCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FD279B-8A5E-42F5-9FD7-A64D4EF8DCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FD279B-8A5E-42F5-9FD7-A64D4EF8DCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D900E5C-5DD0-404E-96FA-7DF8AE001376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D900E5C-5DD0-404E-96FA-7DF8AE001376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D900E5C-5DD0-404E-96FA-7DF8AE001376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D900E5C-5DD0-404E-96FA-7DF8AE001376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE42C49-00D9-407B-A6D0-2FB89E3953AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE42C49-00D9-407B-A6D0-2FB89E3953AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE42C49-00D9-407B-A6D0-2FB89E3953AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE42C49-00D9-407B-A6D0-2FB89E3953AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A832E3E-8331-464F-98F8-3B1247855B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A832E3E-8331-464F-98F8-3B1247855B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A832E3E-8331-464F-98F8-3B1247855B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A832E3E-8331-464F-98F8-3B1247855B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
